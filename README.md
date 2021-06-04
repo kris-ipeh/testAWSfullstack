@@ -16,7 +16,11 @@ Se connecter à la [console AWS Amplify](https://us-west-2.console.aws.amazon.co
 
 Sélectionner le bon repository et la branche `master` ou `main` etcliquer sur `Suivant`.
 
+Vérifier que vos paramêtres de build aient bien été détectés puis télécharger le fichier amplify.yml et intégrer le à la racine du projet.
 
+Vous pouvez également ajouter des variables d'environement dans les settings avancés de cette section.
+
+Pousser le commit sur votre gestionnaire de code source et cliquer sur Suivant.
 
 ## Création d'une fonction sans serveur
 
